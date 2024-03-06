@@ -41,6 +41,11 @@ body {
   color: #252F9C;
 }
 
+/* Style the content */
+.content {
+  margin-left: 200px;
+  padding-left: 20px;
+}
 
 </style>
 </head>
