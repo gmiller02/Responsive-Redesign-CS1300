@@ -47,10 +47,8 @@ body {
   padding-left: 20px;
 }
 
-.content h2,
-.content h3,
-.content p {
-  margin-bottom: 10px; /* Adjust the value as needed */
+.content > * {
+  margin-bottom: 20px; /* Adjust the value as needed */
 }
 
 </style>
