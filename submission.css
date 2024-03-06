@@ -41,28 +41,6 @@ body {
   color: #252F9C;
 }
 
-/* Style the content */
-.content {
-  margin-left: 200px;
-  padding-left: 20px;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  margin-bottom: 10px; /* Adjust the value as needed */
-}
-
-/* Add space between paragraphs */
-p {
-  margin-bottom: 20px; /* Adjust the value as needed */
-}
-
-/* Optionally, you can add styling to the horizontal rules */
-hr {
-  margin: 20px 0;
-  border: none;
-  border-top: 1px solid #ccc; /* Adjust the color as needed */
-}
-
 
 </style>
 </head>
