@@ -10,6 +10,8 @@
 body {
   margin: 0;
   font-family: 'Inconsolata', monospace;
+  background-color: #DCF0FF;
+  color: #252F9C;
 }
 
 /* Style the side navigation */
@@ -20,14 +22,14 @@ body {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
+  background-color: #252F9C;
   overflow-x: hidden;
 }
 
 
 /* Side navigation links */
 .sidenav a {
-  color: white;
+  color: #DCF0FF;
   padding: 16px;
   text-decoration: none;
   display: block;
@@ -35,8 +37,8 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-  background-color: #ddd;
-  color: black;
+  background-color: #DCF0FF;
+  color: #252F9C;
 }
 
 /* Style the content */
